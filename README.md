@@ -8,9 +8,9 @@
 
 ### Demo Branches
 
-- [Developed with Resources](https://github.com/michael811125/FlappyBird_OxGFrame/tree/resources)
-- [Developed with AssetBundle](https://github.com/michael811125/FlappyBird_OxGFrame/tree/assetbundle)
-- [Developed with AssetBundle + CLR](https://github.com/michael811125/FlappyBird_OxGFrame/tree/assetbundle_clr)
+- [Developed with Resources](https://github.com/cout-m6o/FlappyBird_OxGFrame/tree/resources)
+- [Developed with AssetBundle](https://github.com/cout-m6o/FlappyBird_OxGFrame/tree/assetbundle)
+- [Developed with AssetBundle + CLR](https://github.com/cout-m6o/FlappyBird_OxGFrame/tree/assetbundle_clr)
 
 ### About
 
@@ -18,11 +18,11 @@ A reinterpretation of the FlappyBird mini-game built on OxGFrame. Everything is 
 
 ### Framework
 
-[OxGFrame](https://github.com/michael811125/OxGFrame)
+[OxGFrame](https://github.com/cout-m6o/OxGFrame)
 
 ### Unity Version
 
-Unity 6000.3.20f1 (LTS) or higher is recommended - [Unity Download](https://unity3d.com/get-unity/download/archive)
+Unity 6000.3.21f1 (LTS) or higher is recommended - [Unity Download](https://unity3d.com/get-unity/download/archive)
 
 ---
 
@@ -35,9 +35,9 @@ Unity 6000.3.20f1 (LTS) or higher is recommended - [Unity Download](https://unit
 # 中文
 
 ### Demo 分支選項
-- [使用 Resources 開發](https://github.com/michael811125/FlappyBird_OxGFrame/tree/resources)
-- [使用 AssetBundle 開發 ](https://github.com/michael811125/FlappyBird_OxGFrame/tree/assetbundle)
-- [使用 AssetBundle + CLR 開發](https://github.com/michael811125/FlappyBird_OxGFrame/tree/assetbundle_clr)
+- [使用 Resources 開發](https://github.com/cout-m6o/FlappyBird_OxGFrame/tree/resources)
+- [使用 AssetBundle 開發 ](https://github.com/cout-m6o/FlappyBird_OxGFrame/tree/assetbundle)
+- [使用 AssetBundle + CLR 開發](https://github.com/cout-m6o/FlappyBird_OxGFrame/tree/assetbundle_clr)
 
 ### 專案說明
 
@@ -45,11 +45,11 @@ Unity 6000.3.20f1 (LTS) or higher is recommended - [Unity Download](https://unit
 
 ### 專案框架
 
-[OxGFrame](https://github.com/michael811125/OxGFrame)
+[OxGFrame](https://github.com/cout-m6o/OxGFrame)
 
 ### Unity 版本
 
-建議使用 Unity 6000.3.20f1 (LTS) or higher 版本 - [Unity Download](https://unity3d.com/get-unity/download/archive)
+建議使用 Unity 6000.3.21f1 (LTS) or higher 版本 - [Unity Download](https://unity3d.com/get-unity/download/archive)
 
 ---
 
